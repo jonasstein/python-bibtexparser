@@ -16,6 +16,7 @@ Package manager (recommended for those OS users)
 
 * `Archlinux <https://aur.archlinux.org/packages/python-bibtexparser/>`_
 * `Debian <https://packages.debian.org/en/sid/main/python-bibtexparser>`_
+* `Gentoo <https://packages.gentoo.org/packages/dev-python/bibtexparser>`_
 
 pip (recommended to other users)
 ---------------------------------
